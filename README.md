@@ -98,3 +98,6 @@ _version: Mobile-Detect-2.7.2_
 	$detect->version('Android'); // 2.1 (float)
 	$detect->version('Opera Mini'); // 5.0 (float)
 	// [...]
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/madeinnordeste/kohana-mobile-detect/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
